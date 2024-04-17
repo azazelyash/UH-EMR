@@ -1,0 +1,40 @@
+class Strings {
+  Strings._();
+
+  static String add = "Add";
+  static String num = "No.";
+  static String age = "Age:";
+  static String back = "Back";
+  static String edit = "Edit";
+  static String grade = "Grade";
+  static String tests = "Tests";
+  static String visit = "Visit:";
+  static String login = "Login";
+  static String logout = "Logout";
+  static String height = "Height:";
+  static String weight = "Weight:";
+  static String setDate = "Set Date";
+  static String addNote = "Add Note";
+  static String draftRx = "Draft Rx";
+  static String settings = "Settings";
+  static String medicines = "Medicines";
+  static String diagnosis = "Diagnosis";
+  static String nextDate = "Next Date:";
+  static String conditions = "Conditions";
+  static String newPatient = "New Patient";
+  static String patientName = "Patient Name:";
+  static String appointments = "Appointments";
+  static String chooseClinic = "Choose Clinic";
+  static String notifications = "Notifications";
+  static String createDraftRx = "Create Draft Rx";
+  static String previewAndSign = "Preview & Sign";
+  static String patientDetails = "Patient Details";
+  static String existingPatient = "Existing Patient";
+  static String searchCondition = "Search Conditions";
+  static String appointmentsInfo = "Appointments Info";
+  static String otpScreenTitle = "We've sent you a code";
+  static String selectPatientConditions = "Select Patient Conditions";
+  static String otpExpireMessage = " This code expires shortly, so please enter soon.";
+  static String otpScreenSubtitleEmail = "We've sent you a 6 digit code to your email ";
+  static String otpScreenSubtitlePhone = "We've sent you a 6 digit code to your number ";
+}
